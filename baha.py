@@ -8,5 +8,5 @@ app = Flask(_name_)
 def index():
   return "Привет, мир!"
     
-    
-    app.run(port='8000')
+  
+app.run(port='8000')
